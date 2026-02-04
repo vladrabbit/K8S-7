@@ -93,7 +93,6 @@
 * CPU: 10 core
 * RAM: 6Gb
 
----
 
 ### Frontend
 
